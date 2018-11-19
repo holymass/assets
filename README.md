@@ -6,4 +6,4 @@ Mass in the Catholic Church.
 
 © 2018 iannar.com
 
-[Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International](http://creativecommons.org/licenses/by-nc-sa/4.0/)
+[CC-BY-SA-4.0](http://creativecommons.org/licenses/by-sa/4.0/)
