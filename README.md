@@ -1,6 +1,6 @@
-# mass
+# masses
 
-Mass in the Catholic Church.
+Masses in the Catholic Church.
 
 ## License
 
