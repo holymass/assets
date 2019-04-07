@@ -5,8 +5,9 @@
 <head>
   <meta charset="utf-8">
   <title>iannar</title>
-  <link rel="stylesheet" href="https://unpkg.com/reveal.js@3.6.0/css/reveal.css">
-  <link rel="stylesheet" href="https://unpkg.com/reveal.js@3.6.0/css/theme/white.css" id="theme">
+  <link rel="stylesheet" href="https://unpkg.com/reveal.js@3.8.0/css/reset.css">
+  <link rel="stylesheet" href="https://unpkg.com/reveal.js@3.8.0/css/reveal.css">
+  <link rel="stylesheet" href="https://unpkg.com/reveal.js@3.8.0/css/theme/white.css" id="theme">
   <style>
     html,
     body,
@@ -115,6 +116,17 @@
       border: 0;
     }
   </style>
+  <script>
+    var link = document.createElement('link');
+    var baseURL = 'https://unpkg.com/reveal.js@3.8.0/';
+    link.rel = 'stylesheet';
+    link.type = 'text/css';
+    link.href = baseURL + (window.location.search.match(/print-pdf/gi) ? 'css/print/pdf.css' : 'css/print/paper.css');
+    document.getElementsByTagName('head')[0].appendChild(link);
+  </script>
+  <!--[if lt IE 9]>
+  <script crossorigin src="https://unpkg.com/reveal.js@3.8.0/lib/js/html5shiv.js"></script>
+  <![endif]-->
 </head>
 
 <body style="overflow: auto;">
@@ -140,18 +152,19 @@
       }
     })();
   </script>
-  <script crossorigin src="https://unpkg.com/reveal.js@3.6.0/lib/js/head.min.js"></script>
-  <script crossorigin src="https://unpkg.com/reveal.js@3.6.0/lib/js/classList.js"></script>
-  <script crossorigin src="https://unpkg.com/reveal.js@3.6.0/js/reveal.js"></script>
-  <script crossorigin src="https://unpkg.com/reveal.js@3.6.0/plugin/markdown/marked.js"></script>
-  <script crossorigin src="https://unpkg.com/reveal.js@3.6.0/plugin/markdown/markdown.js"></script>
+  <script crossorigin src="https://unpkg.com/reveal.js@3.8.0/js/reveal.js"></script>
   <script>
     Reveal.initialize({
       transition: 'convex',
       controls: true,
       progress: true,
       history: true,
-      center: true
+      center: true,
+      dependencies: [
+        {src: baseURL + 'plugin/markdown/marked.js', condition: function() { return !!document.querySelector('[data-markdown]'); }},
+        {src: baseURL + 'plugin/markdown/markdown.js', condition: function() { return !!document.querySelector('[data-markdown]'); }},
+        {src: baseURL + 'plugin/zoom-js/zoom.js', async: true }
+      ]
     });
   </script>
   <script async src="https://www.googletagmanager.com/gtag/js?id=UA-120959122-1"></script>
