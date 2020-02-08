@@ -1,5 +1,5 @@
-{
-  "圣母无染原罪": {
+[
+  {
     "firstReading": "创3:9-15,20",
     "gospel": "路1:26-38",
     "liturgicalYear": "C",
@@ -9,7 +9,7 @@
     "secondReading": "弗1:3-7,11-12",
     "date": "2018-12-08"
   },
-  "将临期第一主日": {
+  {
     "firstReading": "耶33:14-16",
     "gospel": "路21:25-28,34-36",
     "liturgicalYear": "C",
@@ -19,7 +19,7 @@
     "secondReading": "得前3:12-4:2",
     "date": "2018-12-02"
   },
-  "将临期第二主日": {
+  {
     "firstReading": "巴5:1-9",
     "gospel": "路3:1-6",
     "liturgicalYear": "C",
@@ -29,7 +29,7 @@
     "secondReading": "斐1:4-6,8-11",
     "date": "2018-12-09"
   },
-  "将临期第三主日": {
+  {
     "firstReading": "索3:14-18a",
     "gospel": "路3:10-18",
     "liturgicalYear": "C",
@@ -39,7 +39,7 @@
     "secondReading": "斐4:4-7",
     "date": "2018-12-16"
   },
-  "将临期第四主日": {
+  {
     "firstReading": "米5:1-4a",
     "gospel": "路1:39-45",
     "liturgicalYear": "C",
@@ -49,7 +49,7 @@
     "secondReading": "希10:5-10",
     "date": "2018-12-23"
   },
-  "圣家节": {
+  {
     "firstReading": "撒上1:20-22,24-28",
     "gospel": "路2:41-52",
     "liturgicalYear": "C",
@@ -59,7 +59,7 @@
     "secondReading": "若一3:1-2,21-24",
     "date": "2018-12-30"
   },
-  "天主之母节": {
+  {
     "firstReading": "户6:22-27",
     "gospel": "路2:16-21",
     "liturgicalYear": "C",
@@ -69,7 +69,7 @@
     "secondReading": "迦4:4-7",
     "date": "2019-01-01"
   },
-  "主显节": {
+  {
     "firstReading": "依60:1-6",
     "gospel": "玛2:1-12",
     "liturgicalYear": "C",
@@ -79,7 +79,7 @@
     "secondReading": "弗3:2-3,5-6",
     "date": "2019-01-06"
   },
-  "主受洗节": {
+  {
     "firstReading": "依40:1-5,9-11",
     "gospel": "路3:15-16,21-22",
     "liturgicalYear": "C",
@@ -89,7 +89,7 @@
     "secondReading": "铎2:11-14,3:4-7",
     "date": "2019-01-13"
   },
-  "常年期第二主日": {
+  {
     "firstReading": "依62:1-5",
     "gospel": "若2:1-12",
     "liturgicalYear": "C",
@@ -99,7 +99,7 @@
     "secondReading": "格前12:4-11",
     "date": "2019-01-20"
   },
-  "常年期第三主日": {
+  {
     "firstReading": "厄下8:2-4,5-6,8-10",
     "gospel": "路1:1-4;4:14-21",
     "liturgicalYear": "C",
@@ -109,7 +109,7 @@
     "secondReading": "格前12:12-30",
     "date": "2019-01-27"
   },
-  "常年期第四主日": {
+  {
     "firstReading": "耶1:4-5,17-19",
     "gospel": "路4:21-30",
     "liturgicalYear": "C",
@@ -119,7 +119,7 @@
     "secondReading": "格前12:31-13:13",
     "date": "2019-02-03"
   },
-  "常年期第五主日": {
+  {
     "firstReading": "依6:1-2,3-8",
     "gospel": "谷5:1-11",
     "liturgicalYear": "C",
@@ -129,7 +129,7 @@
     "secondReading": "格前15:1-11",
     "date": "2019-02-10"
   },
-  "圣灰礼仪": {
+  {
     "firstReading": "岳2:12-18",
     "gospel": "玛6:1-6,16-18",
     "liturgicalYear": "C",
@@ -139,7 +139,7 @@
     "secondReading": "格后5:20-6:2",
     "date": "2019-03-06"
   },
-  "四旬期第一主日": {
+  {
     "firstReading": "申26:4-10",
     "gospel": "路4:1-13",
     "liturgicalYear": "C",
@@ -149,7 +149,7 @@
     "secondReading": "罗10:8-13",
     "date": "2019-03-10"
   },
-  "四旬期第二主日": {
+  {
     "firstReading": "创15:5-12,17-18",
     "gospel": "路9:28-36",
     "liturgicalYear": "C",
@@ -159,7 +159,7 @@
     "secondReading": "斐3:17-4:1",
     "date": "2019-03-17"
   },
-  "四旬期第三主日": {
+  {
     "firstReading": "出3:1-8,13-15",
     "gospel": "路13:1-9",
     "liturgicalYear": "C",
@@ -169,7 +169,7 @@
     "secondReading": "格前10:1-6,10-12",
     "date": "2019-03-24"
   },
-  "四旬期第四主日": {
+  {
     "firstReading": "苏5:9,10-12",
     "gospel": "路15:1-3,11-32",
     "liturgicalYear": "C",
@@ -179,7 +179,7 @@
     "secondReading": "格后5:17-21",
     "date": "2019-03-31"
   },
-  "四旬期第五主日": {
+  {
     "firstReading": "依43:16-21",
     "gospel": "路8:1-11",
     "liturgicalYear": "C",
@@ -189,7 +189,7 @@
     "secondReading": "斐3:8-14",
     "date": "2019-04-07"
   },
-  "圣枝主日": {
+  {
     "firstReading": "依50:4-7",
     "gospel": "路22:14-23:56",
     "liturgicalYear": "C",
@@ -199,7 +199,7 @@
     "secondReading": "斐2:6-11",
     "date": "2019-04-14"
   },
-  "圣周四": {
+  {
     "firstReading": "出12:1-8,11-14",
     "gospel": "若13:1-15",
     "liturgicalYear": "C",
@@ -209,7 +209,7 @@
     "secondReading": "格前11:23-26",
     "date": "2019-04-18"
   },
-  "圣周五": {
+  {
     "firstReading": "依52:13-53:12",
     "gospel": "若18:1-19:42",
     "liturgicalYear": "C",
@@ -219,7 +219,7 @@
     "secondReading": "希4:14-16;5:7-9",
     "date": "2019-04-19"
   },
-  "复活前夕": {
+  {
     "firstReading": "",
     "gospel": "",
     "liturgicalYear": "C",
@@ -229,7 +229,7 @@
     "secondReading": "",
     "date": "2019-04-20"
   },
-  "复活节": {
+  {
     "firstReading": "宗10:34,37-43",
     "gospel": "若20:1-9或路24:1-12",
     "liturgicalYear": "C",
@@ -239,7 +239,7 @@
     "secondReading": "哥3:1-4或格前5:6-8",
     "date": "2019-04-21"
   },
-  "复活期第二主日": {
+  {
     "firstReading": "宗5:12-16",
     "gospel": "若20:19-31",
     "liturgicalYear": "C",
@@ -249,7 +249,7 @@
     "secondReading": "默1:9-13,17-19",
     "date": "2019-04-28"
   },
-  "复活期第三主日": {
+  {
     "firstReading": "宗5:27-32,40-41",
     "gospel": "若21:1-19",
     "liturgicalYear": "C",
@@ -259,7 +259,7 @@
     "secondReading": "默5:11-14",
     "date": "2019-05-05"
   },
-  "复活期第四主日": {
+  {
     "firstReading": "宗13:14,43-52",
     "gospel": "若10:27-30",
     "liturgicalYear": "C",
@@ -269,7 +269,7 @@
     "secondReading": "默7:9,14-17",
     "date": "2019-05-12"
   },
-  "复活期第五主日": {
+  {
     "firstReading": "宗14:21-27",
     "gospel": "若13:31-33,34-35",
     "liturgicalYear": "C",
@@ -279,7 +279,7 @@
     "secondReading": "默21:1-5",
     "date": "2019-05-19"
   },
-  "复活期第六主日": {
+  {
     "firstReading": "宗15:1-2,22-29",
     "gospel": "若14:23-29",
     "liturgicalYear": "C",
@@ -289,7 +289,7 @@
     "secondReading": "默21:10-14,22-23",
     "date": "2019-05-26"
   },
-  "耶稣升天节": {
+  {
     "firstReading": "宗1:1-11",
     "gospel": "路24:46-53",
     "liturgicalYear": "C",
@@ -299,7 +299,7 @@
     "secondReading": "弗1:17-23",
     "date": "2019-05-30"
   },
-  "复活期第七主日": {
+  {
     "firstReading": "宗7:55-60",
     "gospel": "若17:20-26",
     "liturgicalYear": "C",
@@ -309,7 +309,7 @@
     "secondReading": "默22:12-14,16-17,20",
     "date": "2019-06-02"
   },
-  "圣神降临节": {
+  {
     "firstReading": "宗2:1-11",
     "gospel": "若14:15-16;20:19-23",
     "liturgicalYear": "C",
@@ -319,7 +319,7 @@
     "secondReading": "罗8:8-17(格前12:3-7,12-13)",
     "date": "2019-06-09"
   },
-  "天主圣三节": {
+  {
     "firstReading": "箴8:22-31",
     "gospel": "若16:12-15",
     "liturgicalYear": "C",
@@ -329,7 +329,7 @@
     "secondReading": "罗5:1-5",
     "date": "2019-06-16"
   },
-  "基督圣体圣血节": {
+  {
     "firstReading": "创14:18-20",
     "gospel": "路9:11-17",
     "liturgicalYear": "C",
@@ -339,7 +339,7 @@
     "secondReading": "格前11:23-26",
     "date": "2019-06-20"
   },
-  "耶稣圣心": {
+  {
     "firstReading": "则34:11-16",
     "gospel": "路15:3-7",
     "liturgicalYear": "C",
@@ -349,7 +349,7 @@
     "secondReading": "罗5:5-11",
     "date": "2019-06-28"
   },
-  "常年期第十主日": {
+  {
     "firstReading": "列上17:17-24",
     "gospel": "路7:11-17",
     "liturgicalYear": "C",
@@ -359,7 +359,7 @@
     "secondReading": "迦1:11-19",
     "date": "2016-06-05"
   },
-  "常年期第十一主日": {
+  {
     "firstReading": "撒下12:7-10,13",
     "gospel": "路7:36-8:3",
     "liturgicalYear": "C",
@@ -369,7 +369,7 @@
     "secondReading": "迦2:16,19-21",
     "date": "2016-06-12"
   },
-  "圣若翰诞辰": {
+  {
     "firstReading": "依49:1-6",
     "gospel": "路1:57-66,80",
     "liturgicalYear": "C",
@@ -379,7 +379,7 @@
     "secondReading": "宗13:22-26",
     "date": "2019-06-24"
   },
-  "常年期第十二主日": {
+  {
     "firstReading": "匝12:10-11",
     "gospel": "路9:18-24",
     "liturgicalYear": "C",
@@ -389,7 +389,7 @@
     "secondReading": "迦3:26-29",
     "date": "2019-06-23"
   },
-  "常年期第十三主日": {
+  {
     "firstReading": "列上19:16,19-21",
     "gospel": "路9:51-62",
     "liturgicalYear": "C",
@@ -399,7 +399,7 @@
     "secondReading": "迦5:1,13-18",
     "date": "2019-06-30"
   },
-  "圣伯多禄及圣保禄": {
+  {
     "firstReading": "宗12:1-11",
     "gospel": "玛16:13-19",
     "liturgicalYear": "C",
@@ -409,7 +409,7 @@
     "secondReading": "弟后4:6-8,16-18",
     "date": "2019-06-29"
   },
-  "常年期第十四主日": {
+  {
     "firstReading": "依66:10-14",
     "gospel": "路10:1-12,17-20",
     "liturgicalYear": "C",
@@ -419,7 +419,7 @@
     "secondReading": "迦6:14-18",
     "date": "2019-07-07"
   },
-  "常年期第十五主日": {
+  {
     "firstReading": "申30:10-14",
     "gospel": "路10:25-37",
     "liturgicalYear": "C",
@@ -429,7 +429,7 @@
     "secondReading": "哥1:15-20",
     "date": "2019-07-14"
   },
-  "常年期第十六主日": {
+  {
     "firstReading": "创18:1-10",
     "gospel": "路10:38-42",
     "liturgicalYear": "C",
@@ -439,7 +439,7 @@
     "secondReading": "哥1:24-28",
     "date": "2019-07-21"
   },
-  "常年期第十七主日": {
+  {
     "firstReading": "创18:20-32",
     "gospel": "路11:1-13",
     "liturgicalYear": "C",
@@ -449,7 +449,7 @@
     "secondReading": "哥2:12-14",
     "date": "2019-07-28"
   },
-  "常年期第十八主日": {
+  {
     "firstReading": "训1:2;2:21-23",
     "gospel": "路12:13-21",
     "liturgicalYear": "C",
@@ -459,7 +459,7 @@
     "secondReading": "哥3:1-5,9-11",
     "date": "2019-08-04"
   },
-  "耶稣显圣容": {
+  {
     "firstReading": "达7:9-10,13-14",
     "gospel": "路9:28b-36",
     "liturgicalYear": "C",
@@ -469,7 +469,7 @@
     "secondReading": "伯后1:16-19",
     "date": "2019-08-06"
   },
-  "常年期第十九主日": {
+  {
     "firstReading": "智18:6-9",
     "gospel": "路12:32-48",
     "liturgicalYear": "C",
@@ -479,7 +479,7 @@
     "secondReading": "希11:1-2,8-19",
     "date": "2019-08-11"
   },
-  "圣母升天节": {
+  {
     "firstReading": "默11:19a;12:1-6a,10ab",
     "gospel": "路1:39-56",
     "liturgicalYear": "C",
@@ -489,7 +489,7 @@
     "secondReading": "格前15:20-27",
     "date": "2019-08-15"
   },
-  "常年期第二十主日": {
+  {
     "firstReading": "耶38:4-6,8-10",
     "gospel": "路12:49-53",
     "liturgicalYear": "C",
@@ -499,7 +499,7 @@
     "secondReading": "希12:1-4",
     "date": "2019-08-18"
   },
-  "常年期第二十一主日": {
+  {
     "firstReading": "依66:18-21",
     "gospel": "路13:22-30",
     "liturgicalYear": "C",
@@ -509,7 +509,7 @@
     "secondReading": "希12:5-7,11-13",
     "date": "2019-08-25"
   },
-  "常年期第二十二主日": {
+  {
     "firstReading": "德3:19-21,30-31",
     "gospel": "路14:1,7-14",
     "liturgicalYear": "C",
@@ -519,7 +519,7 @@
     "secondReading": "希12:18-19,22-24",
     "date": "2019-09-01"
   },
-  "常年期第二十三主日": {
+  {
     "firstReading": "智9:13-19",
     "gospel": "路14:25-33",
     "liturgicalYear": "C",
@@ -529,7 +529,7 @@
     "secondReading": "费9-10,12-17",
     "date": "2019-09-08"
   },
-  "常年期第二十四主日": {
+  {
     "firstReading": "出32:7-11,13-14",
     "gospel": "路15:1-32",
     "liturgicalYear": "C",
@@ -539,7 +539,7 @@
     "secondReading": "弟前1:12-17",
     "date": "2019-09-15"
   },
-  "常年期第二十五主日": {
+  {
     "firstReading": "亚8:4-7",
     "gospel": "路16:1-13",
     "liturgicalYear": "C",
@@ -549,7 +549,7 @@
     "secondReading": "弟前2:1-8",
     "date": "2019-09-22"
   },
-  "常年期第二十六主日": {
+  {
     "firstReading": "亚6:1,4-7",
     "gospel": "路16:19-31",
     "liturgicalYear": "C",
@@ -559,7 +559,7 @@
     "secondReading": "弟前6:11-16",
     "date": "2019-09-29"
   },
-  "常年期第二十七主日": {
+  {
     "firstReading": "哈1:2-3,2:2-4",
     "gospel": "路17:5-10",
     "liturgicalYear": "C",
@@ -569,7 +569,7 @@
     "secondReading": "弟后1:6-8,13-14",
     "date": "2019-10-06"
   },
-  "常年期第二十八主日": {
+  {
     "firstReading": "列下5:14-17",
     "gospel": "路17:11-19",
     "liturgicalYear": "C",
@@ -579,7 +579,7 @@
     "secondReading": "弟后2:8-13",
     "date": "2019-10-13"
   },
-  "常年期第二十九主日": {
+  {
     "firstReading": "出17:8-13",
     "gospel": "路18:1-8",
     "liturgicalYear": "C",
@@ -589,7 +589,7 @@
     "secondReading": "弟后3:14-4:2",
     "date": "2019-10-20"
   },
-  "常年期第三十主日": {
+  {
     "firstReading": "德35:12-14,16-18",
     "gospel": "路18:9-14",
     "liturgicalYear": "C",
@@ -599,7 +599,7 @@
     "secondReading": "弟后4:6-8,16-18",
     "date": "2019-10-27"
   },
-  "诸圣节": {
+  {
     "firstReading": "默7:2-4,9-14",
     "gospel": "玛5:1-12",
     "liturgicalYear": "C",
@@ -609,7 +609,7 @@
     "secondReading": "若一3:1-3",
     "date": "2019-11-01"
   },
-  "追思已亡": {
+  {
     "firstReading": "",
     "gospel": "",
     "liturgicalYear": "C",
@@ -619,7 +619,7 @@
     "secondReading": "",
     "date": "2019-11-02"
   },
-  "常年期第三十一主日": {
+  {
     "firstReading": "智11:22-12:2",
     "gospel": "路19:1-10",
     "liturgicalYear": "C",
@@ -629,7 +629,7 @@
     "secondReading": "得后1:11-2:2",
     "date": "2019-11-03"
   },
-  "常年期第三十二主日": {
+  {
     "firstReading": "加下7:1-2,9-14",
     "gospel": "路20:27-38",
     "liturgicalYear": "C",
@@ -639,7 +639,7 @@
     "secondReading": "得后2:16-3:5",
     "date": "2019-11-10"
   },
-  "常年期第三十三主日": {
+  {
     "firstReading": "拉3:19-20",
     "gospel": "路21:5-19",
     "liturgicalYear": "C",
@@ -649,7 +649,7 @@
     "secondReading": "得后3:7-12",
     "date": "2019-11-17"
   },
-  "普世君王节": {
+  {
     "firstReading": "撒下5:1-3",
     "gospel": "路23:35-43",
     "liturgicalYear": "C",
@@ -659,7 +659,7 @@
     "secondReading": "哥1:12-20",
     "date": "2019-11-24"
   },
-  "耶稣圣诞子时弥撒": {
+  {
     "firstReading": "依9:1-3,5-6",
     "gospel": "路2:1-14",
     "liturgicalYear": "C",
@@ -669,7 +669,7 @@
     "secondReading": "铎2:11-14",
     "date": "2018-12-24"
   },
-  "圣诞节天明弥撒": {
+  {
     "firstReading": "依52:7-10",
     "gospel": "若1:1-18",
     "liturgicalYear": "C",
@@ -679,7 +679,7 @@
     "secondReading": "希1:1-6",
     "date": "2018-12-25"
   },
-  "常年期第六主日": {
+  {
     "firstReading": "耶17:5-8",
     "gospel": "路6:17-18,20-26",
     "liturgicalYear": "C",
@@ -689,7 +689,7 @@
     "secondReading": "格前15:12,16-20",
     "date": "2019-2-17"
   },
-  "常年期第七主日": {
+  {
     "firstReading": "撒上26:2,7-9,12-13,22-23",
     "gospel": "路6:27-38",
     "liturgicalYear": "C",
@@ -699,7 +699,7 @@
     "secondReading": "格前15:45-49",
     "date": "2019-02-24"
   },
-  "常年期第八主日": {
+  {
     "firstReading": "德27:5-8",
     "gospel": "路6:39-45",
     "liturgicalYear": "C",
@@ -709,4 +709,4 @@
     "secondReading": "格前15:54-58",
     "date": "2019-03-03"
   }
-}
+]
