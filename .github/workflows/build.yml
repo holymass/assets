@@ -1,0 +1,27 @@
+name: build
+on:
+  push:
+    branches:
+      - master
+    paths:
+      - 'psalms/**/*.txt'
+jobs:
+  build:
+    name: Build
+    strategy:
+      matrix:
+        runs-on:
+          - ubuntu-latest
+      fail-fast: false
+    runs-on: ${{ matrix.runs-on }}
+    steps:
+      - uses: actions/checkout@v2
+      - uses: actions/setup-node@v1
+        with:
+          node-version: '10.x'
+      - run: npm install -g svgo
+      - uses: actions/setup-python@v1
+        with:
+          python-version: '3.x'
+          architecture: 'x64'
+      - run: pip install -r requirements.txt
