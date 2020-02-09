@@ -26,10 +26,11 @@ jobs:
           architecture: 'x64'
       - run: pip install -r requirements.txt
       - run: ./generate-svg.sh
-      - run: |
-        git config --local user.email "hello@holymass.app"
-        git config --local user.name "HolyMass"
-        git commit -am "Add SVG"
+      - name: Commit files
+        run: |
+          git config --local user.email "hello@holymass.app"
+          git config --local user.name "HolyMass"
+          git commit -am "Add SVG"
       - uses: ad-m/github-push-action@master
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
