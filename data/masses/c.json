@@ -50,6 +50,26 @@
     "date": "2018-12-23"
   },
   {
+    "firstReading": "依9:1-3,5-6",
+    "gospel": "路2:1-14",
+    "liturgicalYear": "C",
+    "name": "耶稣圣诞子时弥撒",
+    "pinyin": "ye1 su1 sheng4 dan4 zi3 shi2 mi2 sa4",
+    "responsorialPsalm": "咏96:1-3,11-13",
+    "secondReading": "铎2:11-14",
+    "date": "2018-12-24"
+  },
+  {
+    "firstReading": "依52:7-10",
+    "gospel": "若1:1-18",
+    "liturgicalYear": "C",
+    "name": "圣诞节天明弥撒",
+    "pinyin": "sheng4 dan4 jie2 tian1 ming2 mi2 sa4",
+    "responsorialPsalm": "咏98:1-6",
+    "secondReading": "希1:1-6",
+    "date": "2018-12-25"
+  },
+  {
     "firstReading": "撒上1:20-22,24-28",
     "gospel": "路2:41-52",
     "liturgicalYear": "C",
@@ -128,6 +148,36 @@
     "responsorialPsalm": "咏138:1-2,2-3,4-5,7-8",
     "secondReading": "格前15:1-11",
     "date": "2019-02-10"
+  },
+  {
+    "firstReading": "耶17:5-8",
+    "gospel": "路6:17-18,20-26",
+    "liturgicalYear": "C",
+    "name": "常年期第六主日",
+    "pinyin": "chang2 nian2 qi1 di4 liu4 zhu3 ri4",
+    "responsorialPsalm": "咏1:1-4,6",
+    "secondReading": "格前15:12,16-20",
+    "date": "2019-02-17"
+  },
+  {
+    "firstReading": "撒上26:2,7-9,12-13,22-23",
+    "gospel": "路6:27-38",
+    "liturgicalYear": "C",
+    "name": "常年期第七主日",
+    "pinyin": "chang2 nian2 qi1 di4 qi1 zhu3 ri4",
+    "responsorialPsalm": "咏103:1-4,8,10,12-13",
+    "secondReading": "格前15:45-49",
+    "date": "2019-02-24"
+  },
+  {
+    "firstReading": "德27:5-8",
+    "gospel": "路6:39-45",
+    "liturgicalYear": "C",
+    "name": "常年期第八主日",
+    "pinyin": "chang2 nian2 qi1 di4 ba1 zhu3 ri4",
+    "responsorialPsalm": "咏92:2-3,13-16",
+    "secondReading": "格前15:54-58",
+    "date": "2019-03-03"
   },
   {
     "firstReading": "岳2:12-18",
@@ -340,6 +390,16 @@
     "date": "2019-06-20"
   },
   {
+    "firstReading": "依49:1-6",
+    "gospel": "路1:57-66,80",
+    "liturgicalYear": "C",
+    "name": "圣若翰诞辰",
+    "pinyin": "sheng4 ruo4 han4 dan4 chen2",
+    "responsorialPsalm": "咏139:1-3,13-14,14-15",
+    "secondReading": "宗13:22-26",
+    "date": "2019-06-24"
+  },
+  {
     "firstReading": "则34:11-16",
     "gospel": "路15:3-7",
     "liturgicalYear": "C",
@@ -368,16 +428,6 @@
     "responsorialPsalm": "咏32:1-2,5,7,11",
     "secondReading": "迦2:16,19-21",
     "date": "2016-06-12"
-  },
-  {
-    "firstReading": "依49:1-6",
-    "gospel": "路1:57-66,80",
-    "liturgicalYear": "C",
-    "name": "圣若翰诞辰",
-    "pinyin": "sheng4 ruo4 han4 dan4 chen2",
-    "responsorialPsalm": "咏139:1-3,13-14,14-15",
-    "secondReading": "宗13:22-26",
-    "date": "2019-06-24"
   },
   {
     "firstReading": "匝12:10-11",
@@ -658,55 +708,5 @@
     "responsorialPsalm": "咏122:1-2,3-4,4-5",
     "secondReading": "哥1:12-20",
     "date": "2019-11-24"
-  },
-  {
-    "firstReading": "依9:1-3,5-6",
-    "gospel": "路2:1-14",
-    "liturgicalYear": "C",
-    "name": "耶稣圣诞子时弥撒",
-    "pinyin": "ye1 su1 sheng4 dan4 zi3 shi2 mi2 sa4",
-    "responsorialPsalm": "咏96:1-3,11-13",
-    "secondReading": "铎2:11-14",
-    "date": "2018-12-24"
-  },
-  {
-    "firstReading": "依52:7-10",
-    "gospel": "若1:1-18",
-    "liturgicalYear": "C",
-    "name": "圣诞节天明弥撒",
-    "pinyin": "sheng4 dan4 jie2 tian1 ming2 mi2 sa4",
-    "responsorialPsalm": "咏98:1-6",
-    "secondReading": "希1:1-6",
-    "date": "2018-12-25"
-  },
-  {
-    "firstReading": "耶17:5-8",
-    "gospel": "路6:17-18,20-26",
-    "liturgicalYear": "C",
-    "name": "常年期第六主日",
-    "pinyin": "chang2 nian2 qi1 di4 liu4 zhu3 ri4",
-    "responsorialPsalm": "咏1:1-4,6",
-    "secondReading": "格前15:12,16-20",
-    "date": "2019-02-17"
-  },
-  {
-    "firstReading": "撒上26:2,7-9,12-13,22-23",
-    "gospel": "路6:27-38",
-    "liturgicalYear": "C",
-    "name": "常年期第七主日",
-    "pinyin": "chang2 nian2 qi1 di4 qi1 zhu3 ri4",
-    "responsorialPsalm": "咏103:1-4,8,10,12-13",
-    "secondReading": "格前15:45-49",
-    "date": "2019-02-24"
-  },
-  {
-    "firstReading": "德27:5-8",
-    "gospel": "路6:39-45",
-    "liturgicalYear": "C",
-    "name": "常年期第八主日",
-    "pinyin": "chang2 nian2 qi1 di4 ba1 zhu3 ri4",
-    "responsorialPsalm": "咏92:2-3,13-16",
-    "secondReading": "格前15:54-58",
-    "date": "2019-03-03"
   }
 ]

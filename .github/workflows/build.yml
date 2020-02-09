@@ -30,7 +30,8 @@ jobs:
         run: |
           git config --local user.email "hello@holymass.app"
           git config --local user.name "HolyMass"
-          git commit -am "Add SVG"
+          git add images
+          git commit -m "Add SVG" images
       - uses: ad-m/github-push-action@master
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
