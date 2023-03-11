@@ -25,7 +25,7 @@ jobs:
           python-version: '3.x'
           architecture: 'x64'
       - run: pip install -r requirements.txt
-      - run: ./generate-svg.sh
+      - run: ./scripts/generate-svg.sh
       - name: Commit files
         run: |
           git config --local user.email "hello@holymass.app"

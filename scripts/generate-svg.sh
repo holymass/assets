@@ -1,4 +1,4 @@
-#!/usr/bin/env bash
+#!/bin/bash
 
 main() {
   local svg
@@ -9,7 +9,6 @@ main() {
       ../scripts/jianpu.py -i $f -o $svg
     fi
   done
-  cd ..
 }
 
 main
