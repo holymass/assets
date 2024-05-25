@@ -12,7 +12,7 @@ import requests
 import simplejson as json
 import subprocess
 
-from xml.etree import ElementTree as ET
+from lxml import etree
 
 
 def pull_svg(source: str, output: str):
@@ -47,12 +47,12 @@ def pull_svg(source: str, output: str):
         text = res.text.replace("[fenye]", "")
         with open(output, "w") as f:
             f.write(text)
-        tree = ET.parse(output)
+        tree = etree.parse(output)
         root = tree.getroot()
         root.attrib["width"] = "1200"
         root.attrib["height"] = "675"
         root.attrib["viewBox"] = "0 0 1200 675"
-        tree.write(output)
+        tree.write(output, encoding="UTF-8")
 
 
 def optimize_svg(svg: str):
